@@ -78,7 +78,7 @@ header .container nav a {
 /* End Header */
 /* Start Landing */
 .landing {
-  margin: 60px 0;
+  margin: 60px auto; /* it was 60 0 now 50 auto * Edit * */
 }
 
 .landing .container {
