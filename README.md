@@ -7,3 +7,6 @@
 Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
+
+## Live Project
+https://mortdaltfe.github.io/fylo-landing-page-with-two-column-layout-master/
